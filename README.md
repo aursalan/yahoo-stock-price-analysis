@@ -1,41 +1,49 @@
-# Yahoo Stock Price Analysis (1999-2023)
 
-## Project Description
+# Yahoo Stock Price Analysis
 
-This project provides an analysis of Yahoo's historical stock prices from November 1999 to September 2023. The primary objective is to process raw time-series data to calculate the average closing price for each year and visualize the resulting trend.
+This project performs a **time series analysis** of Yahoo’s stock price using Python. The notebook reads stock price data from a CSV file, preprocesses it into a structured NumPy array, and then visualizes the data with Matplotlib.
 
-The analysis is conducted using Python, with a strong emphasis on numerical computation using the **NumPy** library. It demonstrates an efficient, vectorized approach to data aggregation by using `np.bincount` to calculate the yearly averages, which is significantly faster than traditional looping methods. The final visualization is a line chart generated with **Matplotlib** that clearly illustrates the fluctuations in Yahoo's average stock price over more than two decades.
+The analysis includes:
+- Loading and parsing Yahoo stock price data from CSV.
+- Converting the raw dataset into a structured NumPy array for efficient handling.
+- Cleaning the dataset by removing headers and preparing it for analysis.
+- Plotting stock price trends over time using Matplotlib to observe fluctuations and patterns.
 
-## Installation and Setup
+The goal of this notebook is to demonstrate how simple yet powerful tools like **NumPy**, **Matplotlib**, and **Python’s CSV** module can be applied to perform **exploratory data analysis (EDA)** on financial datasets.
 
-To run this analysis, you will need Python 3 and a few standard data science libraries.
+## Table of Contents
 
-### Prerequisites
-* Python 3.x
-* NumPy
-* Matplotlib
-* Jupyter Notebook or JupyterLab
+- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#yahoo-stock-price-analysis)
+- [How to Install and Run the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-install-and-run-the-project)
+- [How to Use the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-use-the-project)
+- [Acknowledgements](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#acknowledgements)
+- [License](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#license)
 
-### Installation
-1.  Install the required Python libraries using pip:
-    ```bash
-    pip install numpy matplotlib jupyterlab
-    ```
-2.  Download the project files, including the `yahoo-stock-price-analysis.ipynb` notebook.
-3.  Obtain the dataset, `yahoo_stock_price.csv`. The notebook expects this file to be in a specific path (`/kaggle/input/yahoo-stock-price/yahoo_stock_price.csv`). If running locally, you must update this path in the second code cell to point to the location of your CSV file.
+## How to Install and Run the Project
 
-## Usage
+This project was built and tested entirely on **Kaggle Notebook.**
 
-1.  Launch the Jupyter environment:
-    ```bash
-    jupyter lab
-    ```
-2.  Open the `yahoo-stock-price-analysis.ipynb` notebook.
-3.  Ensure the file path to `yahoo_stock_price.csv` is correct.
-4.  Run the cells in the notebook from top to bottom.
+To run it yourself:
+- Go to [Kaggle Notebooks](https://www.kaggle.com/)
+- Upload the provided Jupyter Notebook file: ```yahoo-stock-price-analysis.ipynb.```
+- Load dataset [Yahoo Stock Price](https://www.kaggle.com/datasets/aursalan/yahoo-stock-price) into the Kaggle environment.
+- Run all cells to reproduce the analysis.
 
-The final cell will execute the analysis and render a line chart titled **"Average Stock Closing Price by Year"**, showing the trend from 1999 to 2023.
+**No additional setup is required since Kaggle comes with NumPy and Matplotlib pre-installed.**
+
+## How to Use the Project
+
+Once you run the notebook, you will be able to:
+
+- View stock price plots.
+- Observe Average Stock Closing Price by Year
+
+## Acknowledgements
+
+ - [NumPy Documentation](https://numpy.org/doc/)
+ - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 ## License
 
-This project is licensed under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/)
+
