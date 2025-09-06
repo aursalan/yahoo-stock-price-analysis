@@ -13,7 +13,7 @@ The goal of this notebook is to demonstrate how simple yet powerful tools like *
 
 ## Table of Contents
 
-- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#yahoo-stock-price-analysis)
+- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-install-and-run-the-project)
 - [How to Install and Run the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-install-and-run-the-project)
 - [How to Use the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-use-the-project)
 - [Acknowledgements](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#acknowledgements)
