@@ -1,7 +1,7 @@
 
 # Yahoo Stock Price Analysis
 
-This project performs a **time series analysis** of Yahoo’s stock price using Python. The notebook reads stock price data from a CSV file, preprocesses it into a structured NumPy array, and then visualises the data with Matplotlib.
+This project performs a **time series analysis** of Yahoo’s stock price using Jupyter Notebook. The notebook reads stock price data from a CSV file, preprocesses it into a structured NumPy array, and then visualises the data with Matplotlib.
 
 The analysis includes:
 - Loading and parsing Yahoo stock price data from CSV.
