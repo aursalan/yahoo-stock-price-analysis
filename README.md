@@ -1,7 +1,7 @@
 
 # Yahoo Stock Price Analysis
 
-This project performs a **time series analysis** of Yahoo’s stock price using Python. The notebook reads stock price data from a CSV file, preprocesses it into a structured NumPy array, and then visualizes the data with Matplotlib.
+This project performs a **time series analysis** of Yahoo’s stock price using Python. The notebook reads stock price data from a CSV file, preprocesses it into a structured NumPy array, and then visualises the data with Matplotlib.
 
 The analysis includes:
 - Loading and parsing Yahoo stock price data from CSV.
@@ -13,11 +13,11 @@ The goal of this notebook is to demonstrate how simple yet powerful tools like *
 
 ## Table of Contents
 
-- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#yahoo-stock-price-analysis)
-- [How to Install and Run the Project](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-install-and-run-the-project)
-- [How to Use the Project](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-use-the-project)
-- [Acknowledgements](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#acknowledgements)
-- [License](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#license)
+- [Project Description](#yahoo-stock-price-analysis)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 ## How to Install and Run the Project
 
@@ -44,5 +44,5 @@ Once you run the notebook, you will be able to:
  - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 ## License
-This project is licensed under the [MIT](LICENSE.md) License.
+This project is licensed under the [MIT](LICENSE) License.
 
