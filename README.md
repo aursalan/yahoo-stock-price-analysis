@@ -44,6 +44,5 @@ Once you run the notebook, you will be able to:
  - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](LICENSE.md) License.
 
