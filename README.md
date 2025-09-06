@@ -13,11 +13,11 @@ The goal of this notebook is to demonstrate how simple yet powerful tools like *
 
 ## Table of Contents
 
-- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-install-and-run-the-project)
-- [How to Install and Run the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-install-and-run-the-project)
-- [How to Use the Project](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#how-to-use-the-project)
-- [Acknowledgements](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#acknowledgements)
-- [License](https://github.com/aursalan/yahoo-stock-price-analysis/edit/main/README.md#license)
+- [Project Description](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#yahoo-stock-price-analysis)
+- [How to Install and Run the Project](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-install-and-run-the-project)
+- [How to Use the Project](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#how-to-use-the-project)
+- [Acknowledgements](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#acknowledgements)
+- [License](https://github.com/aursalan/yahoo-stock-price-analysis?tab=readme-ov-file#license)
 
 ## How to Install and Run the Project
 
