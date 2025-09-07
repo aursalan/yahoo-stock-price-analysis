@@ -7,7 +7,8 @@
 - **Data Visualization:** Utilizes Matplotlib to create plots that visualize stock price trends and the average closing price by year.
 ## Screenshots
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](/assets/screenshot.png)
+
 ## Table of Contents
 
 1. [Tech Stack and Prerequisites](#1-tech-stack-and-prerequisites)
