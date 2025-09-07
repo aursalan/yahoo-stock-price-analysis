@@ -4,7 +4,8 @@
 
 - **Data Handling:** Loads and parses stock price data from a CSV file using Python's built-in csv module.
 - **Data Processing:** Converts the raw data into a structured NumPy array for efficient numerical operations and data cleaning.
-- **Data Visualization:** Utilizes Matplotlib to create plots that visualize stock price trends and the average closing price by year.
+- **Data Visualisation:** Utilises Matplotlib to create plots that visualise stock price trends and the average closing price by year.
+
 ## Screenshots
 
 ![](/assets/screenshot.png)
@@ -31,13 +32,13 @@
 
 Once the notebook is executed, you can:
 
-- **View Stock Price Plots:** Analyze the generated line charts to see the daily fluctuations in Yahoo's stock price over the dataset's time span.
+- **View Stock Price Plots:** Analyse the generated line charts to see the daily fluctuations in Yahoo's stock price over the dataset's time span.
 
 - **Observe Yearly Averages:** Examine the bar chart showing the average stock closing price for each year to identify long-term trends.
 ##  4. Future Improvements
 
 - **Advanced Technical Analysis:** Implement more sophisticated financial indicators like Moving Averages, Bollinger Bands, and Relative Strength Index (RSI).
-- **Predictive Modeling:** Develop a time series forecasting model (e.g., ARIMA or LSTM) to predict future stock prices.
+- **Predictive Modelling:** Develop a time series forecasting model (e.g., ARIMA or LSTM) to predict future stock prices.
 - **Interactive Dashboard:** Create a dynamic and interactive dashboard using libraries like Plotly or Dash to allow for more flexible data exploration.
 - **API Integration:** Replace the static CSV file with a live data feed from a financial API (e.g., Yahoo Finance API) to perform real-time analysis.
 ## 5. Acknowledgements
